@@ -7,7 +7,7 @@ RustSCLoader is a simple code that has the intention of loading a shellcode dire
 ## Build
 
 ```
-git clone https://github.com/MrEmpy/RustSCLoader
+git clone https://github.com/Brosck/RustSCLoader
 cd RustSCLoader
 cargo build --release
 .\target\release\rustscloader.exe
